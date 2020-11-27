@@ -7,3 +7,7 @@ Details about this assignment can be found [on the course webpage](http://cs231n
 First of all, this code is not a good style, why not use recurrent block to control your process?
 
 Your main algorithm seems correct, but the results are questionable, maybe a normalization is helpful.
+
+ # Assignment3 score: 96 ( Excellent ! )
+ 
+ # Assignment4 score: 96 ( Excellent ! )
